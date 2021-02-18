@@ -1,0 +1,16 @@
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\DIBank.exe
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\DIBank.deps.json
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\DIBank.runtimeconfig.json
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\DIBank.runtimeconfig.dev.json
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\DIBank.dll
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\ref\DIBank.dll
+C:\Users\igorb\source\repos\DIBank\DIBank\bin\Debug\net5.0\DIBank.pdb
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.csprojAssemblyReference.cache
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.AssemblyInfoInputs.cache
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.AssemblyInfo.cs
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.csproj.CoreCompileInputs.cache
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.dll
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\ref\DIBank.dll
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.pdb
+C:\Users\igorb\source\repos\DIBank\DIBank\obj\Debug\net5.0\DIBank.genruntimeconfig.cache
